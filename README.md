@@ -1,0 +1,2 @@
+# npm.teadex
+testnet tea
